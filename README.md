@@ -1,2 +1,2 @@
 # Genetic-Algorithms
-Genetic algorithms implementation
+Genetic algorithms implementation in traveling salesman problem
